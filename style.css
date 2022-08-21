@@ -1,5 +1,5 @@
 body {
-background-image: url(bg.jpg);
+    background-image: linear-gradient(to right top, #051937, #00446b, #00769d, #00abc9, #12e3eb);
 }
 .header{
     text-align: center;
