@@ -77,6 +77,11 @@ button {
   color: rgb(106, 194, 216);
   fill: rgb(106, 194, 216);
 }
+@media screen and (max-width: 800px) {
+    .header,body,html,#footer,p,h4, h2 {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+  }
 
 @media (min-width: 768px) {
   .button-59 {
