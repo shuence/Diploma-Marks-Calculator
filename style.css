@@ -78,7 +78,8 @@ button {
   fill: rgb(106, 194, 216);
 }
 @media screen and (max-width: 800px) {
-    .header,body,html,#footer,p,h4, h2 {
+    .header,body,html,#footer,p,h4, h2,table,tr,td,th,input,button{
+        font-size: smaller; {
       width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
     }
   }
