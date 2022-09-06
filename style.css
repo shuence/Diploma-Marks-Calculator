@@ -1,5 +1,6 @@
 body {
-    background-image: linear-gradient(to right top, #051937, #00446b, #00769d, #00abc9);
+    /* background-image: linear-gradient(to right top, #051937, #00446b, #00769d, #00abc9);*/
+    background-image: url(/Background.jpg);
 }
 
 .header{
